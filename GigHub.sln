@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigHub", "GigHub\GigHub.csproj", "{C27433C4-4371-4E1D-A646-0648345DC877}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigHub.Tests", "GigHub.Tests\GigHub.Tests.csproj", "{8FB7A0DB-B9C8-4399-B194-E4143F0305EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GigHub.IntegrationTests", "GigHub.IntegrationTests\GigHub.IntegrationTests.csproj", "{1749D248-BBDC-4A63-88B4-D251D57CF6FE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C27433C4-4371-4E1D-A646-0648345DC877}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C27433C4-4371-4E1D-A646-0648345DC877}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C27433C4-4371-4E1D-A646-0648345DC877}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C27433C4-4371-4E1D-A646-0648345DC877}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8FB7A0DB-B9C8-4399-B194-E4143F0305EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8FB7A0DB-B9C8-4399-B194-E4143F0305EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8FB7A0DB-B9C8-4399-B194-E4143F0305EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8FB7A0DB-B9C8-4399-B194-E4143F0305EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1749D248-BBDC-4A63-88B4-D251D57CF6FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1749D248-BBDC-4A63-88B4-D251D57CF6FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1749D248-BBDC-4A63-88B4-D251D57CF6FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1749D248-BBDC-4A63-88B4-D251D57CF6FE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://developer1323.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = GigHub\\GigHub.csproj
+		SccProjectName1 = GigHub
+		SccLocalPath1 = GigHub
+		SccProjectUniqueName2 = GigHub.Tests\\GigHub.Tests.csproj
+		SccProjectName2 = GigHub.Tests
+		SccLocalPath2 = GigHub.Tests
+		SccProjectUniqueName3 = GigHub.IntegrationTests\\GigHub.IntegrationTests.csproj
+		SccProjectName3 = GigHub.IntegrationTests
+		SccLocalPath3 = GigHub.IntegrationTests
+	EndGlobalSection
+EndGlobal
